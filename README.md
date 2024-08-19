@@ -16,7 +16,7 @@ This Flutter project demonstrates Emoji Picker with All it's core functionality 
 4. Run the app.
 
 ## Usage
-1. Install the [flutter_tts](https://pub.dev/packages/emoji_picker_flutter) Package.
+1. Install the [flutter Emoji Picker](https://pub.dev/packages/emoji_picker_flutter) Package.
 2. Set the minSDKVersion to 21.
 
 ## Contribution
