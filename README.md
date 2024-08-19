@@ -31,5 +31,8 @@ MIT License.
 - 💡 Got an app idea? Partner with me, an expert Flutter developer, to bring it to life! Satisfaction guaranteed. I guarantee excellent results, timely delivery, and your satisfaction.
 - [Fiverr](https://www.fiverr.com/s/961w1e) Hire Us
 
+<p align="center">
   <img width="311" alt="ui" src="https://github.com/user-attachments/assets/94c0d08e-6a6b-4133-bb89-265abb000043">
-<img width="311" alt="emoji picker" src="https://github.com/user-attachments/assets/98e03398-9088-4139-96a2-bfdeb44cd19f">
+  <img width="311" alt="emoji picker" src="https://github.com/user-attachments/assets/98e03398-9088-4139-96a2-bfdeb44cd19f">
+</p>
+
